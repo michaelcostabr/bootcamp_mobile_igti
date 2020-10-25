@@ -1,0 +1,3 @@
+[submodule "node/shows-api"]
+	path = node/shows-api
+	url = https://github.com/brigolini/shows-api.git
